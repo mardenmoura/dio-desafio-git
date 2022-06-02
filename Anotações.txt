@@ -1,0 +1,24 @@
+Comandos do Terminal
+
+Listar diretórios - dir no windows, ls no Linux
+
+Mudar de diretório - cd (cd / vai para o c:) cd.. volta a pasta
+
+Limpar a tela - cls no windows, clear no linux
+
+Autocompletar - Tecla TAB
+
+Para criar pasta - mkdir e o nome desejado da pasta
+
+Para criar um arquivo - echo o nome do arquivo > nome do arquito e a extenção do mesmo
+
+Para deletar diretório - no windows rmdir e o nome da pasta, no Linux rm -rf e o nome da pasta
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
